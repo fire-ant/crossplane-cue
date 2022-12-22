@@ -1,0 +1,5 @@
+provider-aws release-0.34
+provider-azure release-0.20
+provider-gcp release-0.22
+provider-terraform release-0.6
+provider-kubernetes release-0.5
